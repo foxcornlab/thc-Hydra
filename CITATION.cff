@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - given-names: van
+    family-names: Hauser
+    affiliation: THC
+  - given-names: Vineeth
+    family-names: Kumar
+    alias: foxcornlab
+    affiliation: Foxcorn Lab
+title: "thc-Hydra (Foxcorn Lab fork of THC Hydra)"
+version: 9.6.0
+type: software
+date-released: 2021-03-15
+url: "https://github.com/foxcornlab/thc-Hydra"
+keywords:
+  - password-auditing
+  - pentesting
+  - brute-force
+license: AGPL-3.0-or-later
